@@ -1,6 +1,6 @@
 # My First Website
 
-This project was one of my first web development projects while learning HTML and CSS in college.
+This project was one of my first web development projects while learning HTML and CSS in college. I finished this in April 2025.
 
 ## Features
 - Basic webpage layout
