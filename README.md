@@ -10,7 +10,7 @@ This project was one of my first web development projects while learning HTML an
 ## Technologies Used
 - HTML
 - CSS
-- 
+- VS Code
 
 ## What I Learned
 - Structuring webpages with HTML
